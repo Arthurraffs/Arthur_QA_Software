@@ -1,6 +1,6 @@
 package com.qa_software1;
 
-public class QA_Software1_1 {
+public class QA_Software1 {
 	
 	public static void myMethod(){
 		int num = 2020;
