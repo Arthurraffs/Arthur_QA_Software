@@ -1,4 +1,4 @@
-package qa_software1;
+package com.qa_software1;
 
 public class QA_Software1_1 {
 
