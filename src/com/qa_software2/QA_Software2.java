@@ -1,6 +1,8 @@
 package com.qa_software2;
 import java.util.Scanner;
 
+// This is exercise 2 and 4 of the QA Java exercise booklet
+
 public class QA_Software2 {
 	
 	public static void calculator() {
