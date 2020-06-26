@@ -2,14 +2,20 @@ package com.qa_software1;
 
 public class QA_Software1 {
 	
-	public static void myMethod(){
-		int num = 2020;
-		String year = "Is the best year yet!";
-		System.out.println(num + " "+ year);
+	public String fname;
+	public String surname;
+	public int age;
+	
+	public static void myMethod(String fname, String surname, int age){
+		this.fname = fname;
+		this.surname = surname;
+		this.age = age;
 	}
 	
-	public static void main(String[] args) {
-	myMethod();
-	
+	@Override
+	public String toString() {
+		return "Name: " + fname + " " + surname + " \nAge: " + age "
 	}
+		
 }
+

@@ -1,6 +1,8 @@
 package com.qa_software3;
 import java.util.Scanner;
 
+// This is exercise 3 of the QA Java exercise booklet.
+
 public class QA_Software3 {
 	
 	public static void checkString() {
