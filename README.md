@@ -1,2 +1,2 @@
 # Arthur_QA_Software
-Tasks + Projects
+Java Exercise Booklet
