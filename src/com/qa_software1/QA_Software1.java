@@ -6,16 +6,12 @@ public class QA_Software1 {
 	public String surname;
 	public int age;
 	
-	public static void myMethod(String fname, String surname, int age){
+	public void myMethod(String fname, String surname, int age){
 		this.fname = fname;
 		this.surname = surname;
 		this.age = age;
 	}
 	
-	@Override
-	public String toString() {
-		return "Name: " + fname + " " + surname + " \nAge: " + age "
-	}
 		
 }
 

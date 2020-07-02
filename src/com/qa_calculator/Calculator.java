@@ -1,9 +1,9 @@
-package com.qa_software2;
+package com.qa_calculator;
 import java.util.Scanner;
 
 // This is exercise 2 and 4 of the QA Java exercise booklet
 
-public class QA_Software2 {
+public class Calculator {
 	
 	public static void calculator() {
 		Scanner scannerObj1 = new Scanner(System.in);

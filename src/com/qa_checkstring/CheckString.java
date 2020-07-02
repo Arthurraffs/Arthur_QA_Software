@@ -1,9 +1,9 @@
-package com.qa_software3;
+package com.qa_checkstring;
 import java.util.Scanner;
 
 // This is exercise 3 of the QA Java exercise booklet.
 
-public class QA_Software3 {
+public class CheckString {
 	
 	public static void checkString() {
 		String hardCode = "Hello World";
