@@ -1,6 +1,6 @@
-package com.qa_software4;
+package com.qa_printnumbers;
 
-public class QA_Software4 {
+public class PrintNumbers {
 	
 	public static void numCoverter() {
 		String[] units = { "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven",
