@@ -20,7 +20,7 @@ public class Penthouse extends Appartment {
 	}
 
 	public void setNumberOfBedrooms(int numberOfBedrooms) {
-		this.numberOfBedrooms = BedroomAdder.addBedroom();
+		this.numberOfBedrooms = numberOfBedrooms;
 	}
 
 	public int getSquareFootage() {
